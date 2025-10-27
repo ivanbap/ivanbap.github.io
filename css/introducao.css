@@ -4,7 +4,7 @@
     margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    gap: 100px;
+    gap: 140px;
     align-items: center;
 }
 
@@ -22,8 +22,8 @@
     height: 100px;
     background: url("../img/Decoração.svg") no-repeat center;
     position: absolute;
-    top: -15px;
-    left: -40px;
+    top: -12px;
+    left: -50px;
     z-index: -1;
 }
 
