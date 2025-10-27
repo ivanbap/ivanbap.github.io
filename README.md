@@ -1,7 +1,7 @@
 # 🧑‍💻 Meu Currículo Pessoal & Portfólio
 
-**Atualmente:** O site está totalmente estruturado e estilizado usando HTML e CSS.
-**Próximos Passos:** A próxima fase de desenvolvimento incluirá a implementação de JavaScript para adicionar interatividade e funcionalidades dinâmicas (como formulário de contato, modo escuro, etc.).
+- O site está totalmente estruturado e estilizado usando HTML e CSS.
+- A próxima fase de desenvolvimento incluirá a implementação de JavaScript para adicionar interatividade e funcionalidades dinâmicas (como formulário de contato, modo escuro, etc.).
 
 ## ✨ Preview
 
